@@ -1,8 +1,8 @@
 name: 🏠 Housekeeping Tasks
-on:
-  workflow_dispatch:
-  schedule:
-    - cron: 0 0 2 * * # bi-monthly
+# on:
+#  workflow_dispatch:
+#  schedule:
+#    - cron: 0 0 2 * * # bi-monthly
 
 jobs:
 
